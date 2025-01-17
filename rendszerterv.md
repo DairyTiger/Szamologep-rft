@@ -21,7 +21,6 @@ A rendszer létrehozásához rendelkezésre álló erőforrások:
  - Feladatok részletekre bontása és megoldása.
  - Dokumentációk, leírások képernyő tervek véglegesítése.
  - Git repo folyamatos frissítése amikor akármi elkészül.
- - Folyamatos kommunikáció a projektben résztvevőkkel.
  - Tesztelési folyamatok befejezése.
  - Felkészülés a projekt bemutatására.
  - Bemutatás.
