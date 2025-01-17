@@ -1,2 +1,2 @@
 # Szamologep-rft
-Egyszerű számológép
+Egyszerű számológép html, css és javascript megvalósításával.
