@@ -1,0 +1,2 @@
+# Szamologep-rft
+Egyszerű számológép
