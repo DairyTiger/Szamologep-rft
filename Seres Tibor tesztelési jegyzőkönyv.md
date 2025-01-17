@@ -1,9 +1,7 @@
  | Teszteset               | Elvárt eredmény                                                                                                     | 
  |-------------------------|---------------------------------------------------------------------------------------------------------------------| 
  | Helytelen adat megadása | A  művelet nem hajtódik végre, a kijelzőn „Error” üzenet jelenik meg.                                               |
- | Helyes adat megadása    | A kijelzőn megjelenik a helyes számított eredmény.                                                                   | 
-
-**Tesztelés dátuma:** 2025.január.16.
+ | Helyes adat megadása    | A kijelzőn megjelenik a helyes számított eredmény.                                                                  | 
 
 | Tesztszám | Rövid leírás                     | Várt eredmény                                              | Eredmény                      | Megjegyzés                |
 |-----------|----------------------------------|------------------------------------------------------------|-------------------------------|---------------------------|
