@@ -56,4 +56,4 @@ A tesztelések célja a rendszer és komponensei funkcionalitásának teljes viz
  - Megadott számokat a kívánt műveletettel jól kell számolnia
 
 ## 8. Telepités
-A programot Githubon keresztül lehet futatni miután elvégeztük a letöltést ([A letöltéshez segítség](https://zapier.com/blog/how-to-download-from-github/)) utánna ki bontjuk a mappát oda ahová szeretnénk.
+A programot Githubon keresztül lehet futatni miután elvégeztük a letöltést ([A letöltéshez segítség](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github)) utánna ki bontjuk a mappát oda ahová szeretnénk.
