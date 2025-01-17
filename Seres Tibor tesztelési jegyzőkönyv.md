@@ -3,8 +3,6 @@
  | Helytelen adat megadása | A  művelet nem hajtódik végre, a kijelzőn „Error” üzenet jelenik meg.                                               |
  | Helyes adat megadása    | A kijelzőn megjelenik a helyes számított eredmény.                                                                   | 
 
-**Tesztelő:** Seres Tibor
-
 **Tesztelés dátuma:** 2025.január.16.
 
 | Tesztszám | Rövid leírás                     | Várt eredmény                                              | Eredmény                      | Megjegyzés                |
