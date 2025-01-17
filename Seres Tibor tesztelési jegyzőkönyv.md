@@ -1,6 +1,6 @@
  | Teszteset               | Elvárt eredmény                                                                                                     | 
  |-------------------------|---------------------------------------------------------------------------------------------------------------------| 
- | Helytelen adat megadása | A művelet nem hajtódik végre.                                                                                       |
+ | Helytelen adat megadása | A  művelet nem hajtódik végre, a kijelzőn „Error” üzenet jelenik meg.                                               |
  | Helyes adat megadása    | Megtörténik a művelet.                                                                                              | 
 
 #### Ezeket a teszteseteket végrehalytani a legtöbb kombinációval
