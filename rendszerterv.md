@@ -28,7 +28,7 @@ A rendszer létrehozásához rendelkezésre álló erőforrások:
  ## 5. Funkcionális terv
 
 Megnyitás után egy kezelőfelület jelenik meg, ahol 1 menü fogad. A kezelőfelület egy általános kalkulátora/számológépre hasonlít 
-és funkcióját tekintve is megegyezik velük ami azt jelenti hogy képes összeadásra, kivonásra, osztásra, szorzásra egyész és tizedes jegyel rendelkező számok esetén is. 
+és funkcióját tekintve is megegyezik azzal ami azt jelenti hogy képes összeadásra, kivonásra, osztásra, szorzásra egyész és tizedes jegyel rendelkező számok esetén is. 
 
 ## 6. Fizikai terv
 
