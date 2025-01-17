@@ -1,3 +1,7 @@
+Alkalmazás neve: Egyszerű Számológép
+Tesztelő neve: Seres Tibor
+Tesztelés dátuma: 2025. január 16.
+
  | Teszteset               | Elvárt eredmény                                                                                                     | 
  |-------------------------|---------------------------------------------------------------------------------------------------------------------| 
  | Helytelen adat megadása | A  művelet nem hajtódik végre, a kijelzőn „Error” üzenet jelenik meg.                                               |
