@@ -1,6 +1,6 @@
-## Alkalmazás neve: Egyszerű Számológép
-Tesztelő neve: Seres Tibor
-Tesztelés dátuma: 2025. január 16.
+**Alkalmazás neve:** Egyszerű Számológép
+**Tesztelő neve:** Seres Tibor
+**Tesztelés dátuma:** 2025. január 16.
 
  | Teszteset               | Elvárt eredmény                                                                                                     | 
  |-------------------------|---------------------------------------------------------------------------------------------------------------------| 
