@@ -10,7 +10,7 @@ A rendszer létrehozásához rendelkezésre álló erőforrások:
 
 - A felhasználó által használt notebookok/asztali számítógépek melyeknek rendelkezniük kell egy futó opercációs rendszerrel(Windows 10/11, Linux) 
 - Állandó internet kapcsolat 
-- Böngésző (Firefox, Opera stb.)
+- Böngésző (Firefox, Opera. Chrome stb.)
 
 ## 3. Résztvevők és főbb szereplők:
 
