@@ -2,7 +2,7 @@
 ## 1. A rendszer célja
 
 Az oldal célja, hogy segítséget nyújtson a felhasználóknak korosztálytól függetlenül. 
-Tervem hogy egyszerű matematikai műveleteket mégegyszerűbbé tegyem és hosszass gondolkodás nélkül azonnali és helyes eredményt kapjak. 
+Tervem hogy egyszerű matematikai műveleteket mégegyszerűbbé tegyem és hosszass gondolkodás nélkül azonnali és helyes eredményt kapjunk. 
 
 ## 2. Projektterv
 
